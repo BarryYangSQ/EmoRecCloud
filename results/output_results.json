@@ -1,0 +1,41 @@
+[
+    {
+        "Overall Emotion": "开心/happy"
+    },
+    {
+        "Language": "en",
+        "Emotion": "开心/happy",
+        "Audio Type": "Speech",
+        "Text": "hello"
+    },
+    {
+        "Language": "en",
+        "Emotion": "<unk>",
+        "Audio Type": "Speech",
+        "Text": "this is a test audio"
+    },
+    {
+        "Language": "en",
+        "Emotion": "开心/happy",
+        "Audio Type": "Speech",
+        "Text": "and i'm very happy now"
+    },
+    {
+        "Language": "en",
+        "Emotion": "难过/sad",
+        "Audio Type": "Speech",
+        "Text": "i'm very happy now"
+    },
+    {
+        "Language": "en",
+        "Emotion": "生气/angry",
+        "Audio Type": "Speech",
+        "Text": "actually i'm very angry now"
+    },
+    {
+        "Language": "en",
+        "Emotion": "中立/neutral",
+        "Audio Type": "Speech",
+        "Text": "they are all fake emotions"
+    }
+]
